@@ -2,7 +2,7 @@
 🔭 I'm a Front-End Web Developer, crafting uniquely awesome online experiences..<br>💻 Skilled at Front-End Web Development.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: kkt196041@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishantiwari484) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishan-tiwari-876b79256) 
 
 # 💻 Tech Stack:
