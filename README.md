@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">       
-<h3> A passionate professional who continuously finds fulfillment in utilizing cutting-edge technology to create excellent, scalable solutions that have an influence. As a software and product developer, I invest a lot of time and energy into conceptually creating and testing products early in the process. I have strong problem-solving skills and can build software in a test-driven environment.</h3>
+<h3> A passionate and dedicated student specializing in front-end development, I continuously find fulfillment in leveraging cutting-edge technology to craft innovative and scalable solutions with a significant impact. I invest considerable time and energy into conceptualizing, learning new skills, and testing during the early stages of development.</h3>
 </p>
 
 
